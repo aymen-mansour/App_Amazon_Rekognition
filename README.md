@@ -1,3 +1,9 @@
+#Objectif : Création d'une application de détection d'objeten utilisant le service Amazon Rekognition.
+
+#configuration : 
+Démarrer avec Angular.pdf
+
+
 # Myapp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
