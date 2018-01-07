@@ -1,4 +1,4 @@
-#Objectif : Création d'une application de détection d'objeten utilisant le service Amazon Rekognition.
+#Objectif : Création d'une application de détection d'objet en utilisant le service Amazon Rekognition.
 
 #Prereqs : Démarrer avec Angular.pdf
 
